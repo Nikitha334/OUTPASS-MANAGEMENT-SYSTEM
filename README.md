@@ -4,9 +4,7 @@
 
 Outpass System is a web portal designed to facilitate the generation of outpasses for students residing in hostels, reducing paperwork and improving efficiency. The system is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing a robust and scalable solution.
 
-## Demo:
 
-https://outpass-system.netlify.app/
 
 ### Features:
 
@@ -16,6 +14,7 @@ https://outpass-system.netlify.app/
 
 #### For Wardens:
 - **Review and Approve/Reject Outpasses:** Wardens can review outpass applications submitted by students and approve or reject them as needed.
+- **Approval :** student get QR Code to his/her registered clg mail
 
 ### How It Works:
 1. **Student Application:** Students log in to the portal and fill out the required information for their outpass request.
@@ -32,6 +31,7 @@ https://outpass-system.netlify.app/
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+- **cloud:** Cloudinary
 
 ### Installation:
 1. Clone the repository.
@@ -43,7 +43,7 @@ https://outpass-system.netlify.app/
 Contributions are welcome! Please follow the contribution guidelines outlined in the repository.
 
 ### Screenshots:
-Home Pgae:
+Home Page:
 ![Home Page](https://github.com/github-arjav/College-Outpass-System/assets/104684401/3d6e13d6-529e-484c-879c-f56ef2b22771)
 Student Authentication Page:
 ![Student Authentication Page](https://github.com/github-arjav/College-Outpass-System/assets/104684401/b6888937-439e-4070-8f77-eb2ddd52eec3)
